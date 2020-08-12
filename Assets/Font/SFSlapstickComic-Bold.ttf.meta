@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6ed2be16fa6008546982a08b8e20b3be
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Slapstick Comic
+  fontNames:
+  - SF Slapstick Comic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a982dbcfafe15c344ae810d28bfa042d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
